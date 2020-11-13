@@ -9,6 +9,6 @@ this project is developed using MyHDL library in python.
 
  - pip install myhdl 
 
-for further information abou the installtion check out the following link
+for further information about the installtion check out the following link
 
 http://www.myhdl.org/start/installation.html
