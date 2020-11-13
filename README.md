@@ -7,7 +7,7 @@ The CPU is divided to two main components, a datapath and a control unit.
 
 this project is developed using MyHDL library in python.
 
- - pip install myhdl -
+ - pip install myhdl 
 
 for further information abou the installtion check out the following link
 
