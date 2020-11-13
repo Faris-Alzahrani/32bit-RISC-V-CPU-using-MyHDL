@@ -37,6 +37,9 @@ the CPU.py is the top-module in this project. to simulate the CPU, go to the def
 # further information 
 
 check out MyHDL main repository
+
  - https://github.com/myhdl/myhdl
+ 
 MyHDL Docs
+
 - http://docs.myhdl.org/en/stable/
